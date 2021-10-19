@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ctOS WatchDog</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="checkbox">Remember Me</string>
+    <string name="button">Sign In</string>
+    <string name="footer"> no system is safe</string>
+    <string name="image_ctOS">TODO</string>
+</resources>
